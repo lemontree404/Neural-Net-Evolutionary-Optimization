@@ -24,10 +24,12 @@ A study on how different evolutionary algorithms optimize the weights of a neura
 
 | Algorithm      | Epochs | Loss  | Accuracy(%) |
 |----------------|--------|-------|-------------|
-| Cultural       | 1000   | 0.273 | 90.5        |
-| Genetic        | 5000   | 0.668 | 87.5        |
-| Particle Swarm | 1000   | 0.165 | 93.7        |
-| Ant Colony     | 1000   | 0.298 | 90.2        |
+| Cultural       | 1000   | 0.207 | 91.8        |
+| Genetic        | 5000   | 1.039 | 85.2        |
+| Particle Swarm | 1000   | 0.135 | 94.4        |
+| Ant Colony     | 1000   | 0.257 | 90.8        |
+
+![alt text](https://github.com/lemontree404/Neural-Net-Evolutionary-Optimization/blob/main/figs/f1.png)
 
 
 ## Observations
